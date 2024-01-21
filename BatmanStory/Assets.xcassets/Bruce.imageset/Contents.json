@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "brucewaynevowsvengeance-56a06db43df78cafdaa19cd6.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "brucewaynevowsvengeance-56a06db43df78cafdaa19cd6 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "brucewaynevowsvengeance-56a06db43df78cafdaa19cd6 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
